@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "sass": "^1.68.0"
+  },
+  "devDependencies": {
+    "surge": "^0.23.1"
   }
 }
